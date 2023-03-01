@@ -4,3 +4,4 @@ youtube-comment-downloader
 openpyxl
 fastapi
 pydantic
+uvicorn
